@@ -6,7 +6,7 @@ Acest proiect este o aplicație web simplă creată cu React, care permite utili
 
   - Gestionează stările pentru lista de filme (`movies`) și termenul de căutare (`searchTerm`).
   - Funcția `searchMovies` caută filme folosind API-ul OMDB și actualizează lista de filme.
-  - La montarea aplicației, se efectuează o căutare inițială pentru "Spiderman".
+  - La montarea aplicației, se efectuează o căutare inițială pentru o cautare implicita.
   - Interfața include un câmp de căutare și afișează filmele sau un mesaj de eroare.
 
 - **Componenta `MovieCard`**:
